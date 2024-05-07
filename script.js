@@ -19,7 +19,7 @@ function handleInput(event) {
                     showOutput('<div class="about">Hey, I am <span class="command"><b>Yatin Sondhi</b></span>.  I am pursuing Cyber Security from Parul University... My keen interest are in <br> <span class="command"><b>1.Red Teaming</b></span> <br> <span class="command"><b>2.Malware Devlopment</b></span> <br> <span class="command"><b>3.CTF</b></span> <br>(I have currently won HavokSecurity Ctf hosted by GoogleStudentDeveloperClub YAAAAYYYY!!!!) </div>');
                     break;
                 case 'contact':
-                    showOutput('Hit me up at: <hr><br> Linkedin: <a href="https://www.linkedin.com/in/yatin-sondhi-b6014a167/">[Link]</a> <br> Twitter: <a href="">[Link]</a> <br> Medium: <a href="">[Link]</a>');
+                    showOutput('Hit me up at: <hr><br> Linkedin: <a href="https://www.linkedin.com/in/yatin-sondhi-b6014a167/">[Link]</a> <br> Twitter: <a href="https://twitter.com/YTheallrou88444">[Link]</a> <br>');
                     break;
                 case 'help':
                     showOutput('Available commands: <br> <div class="command">- about [Get to know Me] <br> - contact <br> - help <br> - clear <br> - time [Your current Clock] <br> - resume [download resume]</div><br> Use <span class="command2">Up Arrow</span> to go back to previous command, Use <span class="command2"><b>Tab</b></span> to autocomplete command.');
